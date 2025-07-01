@@ -1,12 +1,5 @@
-This project is a SQL-based relational database designed to manage and organize data for a real estate business. It handles property listings, clients, agents, transactions, and locations, using a well-structured and normalized schema.
+# Real-Estate-System-Database
 
-Features:
-Store data related to: Properties (for sale or rent), Clients (buyers, sellers, renters), Real estate agents, Sales and rental transactions, Property locations and types,
-Relational design using foreign keys and normalized tables, 
-Predefined queries for searching properties, managing deals, and reporting
+Skills: 🗃️ Database Design · 🧠 ERD · 💾 SQL · 🛠️ Data Normalization · 🗺️ Entity Relationship Mapping
 
-Technologies:
-SQL, Built and tested using Microsoft SQL Server and Management Studio.
-
-Author:
-Nada Shawer (MIS student with interest in business systems and relational database design).
+For my Database I university course, I collaborated with a team to design and implement a relational database for real estate management using Microsoft SQL Server, creating an ERD schema to model property listings, agents, clients, and transactions. The database supports queries for tracking sales, commissions, and client interactions. We wrote optimized SQL scripts for data manipulation, reporting, and integrity constraints. This project strengthened my skills in database design, normalization, and SQL programming, demonstrating my ability to build efficient, scalable data solutions for real-world business needs.
